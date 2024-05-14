@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Talk to Swami",
   "version": "1.0",
-  "description": "A simple Chrome extension that generates random quotes",
+  "description": "Your virtual chit box for receiving messages from Bhagwan Sri Sathya Sai Baba.",
   "icons": {
     "16": "logo.png",
     "48": "logo.png",
